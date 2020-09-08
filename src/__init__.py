@@ -1,1 +1,1 @@
-# You can safely ignore this file
+print("hello world")
